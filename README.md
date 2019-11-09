@@ -1,4 +1,4 @@
-# JetpackComposeTutorial
+# Jetpack Compose Tutorial
 
 This repo is an Android Jetpack Compose tutorial.  
 Please refer to the link below.
